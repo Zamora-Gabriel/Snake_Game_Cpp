@@ -1,0 +1,12 @@
+﻿  Game.cpp
+G:\Repos\EndlessFish\Endless_SwimmerV2\Snake_Game_Cpp\Source\Game.cpp(184,27): warning C4018: '<': no coinciden signed/unsigned
+G:\Repos\EndlessFish\Endless_SwimmerV2\Snake_Game_Cpp\Source\Game.cpp(236,38): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+G:\Repos\EndlessFish\Endless_SwimmerV2\Snake_Game_Cpp\Source\Game.cpp(236,35): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+G:\Repos\EndlessFish\Endless_SwimmerV2\Snake_Game_Cpp\Source\Game.cpp(282,27): warning C4018: '<': no coinciden signed/unsigned
+G:\Repos\EndlessFish\Endless_SwimmerV2\Snake_Game_Cpp\Source\Game.cpp(329,27): warning C4018: '<': no coinciden signed/unsigned
+  Main.cpp
+  Generando código...
+EngineX_d.lib(Engine.obj) : warning LNK4099: no se encontró PDB 'EngineX.pdb' con 'EngineX_d.lib(Engine.obj)' o en 'G:\Repos\EndlessFish\Endless_SwimmerV2\Snake_Game_Cpp\bin\EngineX.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+EngineX_d.lib(RenderPacket.obj) : warning LNK4099: no se encontró PDB 'EngineX.pdb' con 'EngineX_d.lib(RenderPacket.obj)' o en 'G:\Repos\EndlessFish\Endless_SwimmerV2\Snake_Game_Cpp\bin\EngineX.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+EngineX_d.lib(System.obj) : warning LNK4099: no se encontró PDB '' con 'EngineX_d.lib(System.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  Game.vcxproj -> G:\Repos\EndlessFish\Endless_SwimmerV2\Snake_Game_Cpp\bin\Game.exe
